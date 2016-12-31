@@ -1,0 +1,304 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	background-color: #eee;
+	color: #555;
+}
+
+a {
+	color: #dc710b;
+}
+
+.split-panel {
+	position: absolute;
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+}
+
+#side-panel {
+	width: 300px;
+	background-color: #fff;
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+}
+
+#main-panel {
+	margin-left: 300px;
+	width: calc(100% - 300px);
+}
+
+#quest-list-container {
+	height: 100%;
+	overflow-y: scroll;
+}
+
+.quest {
+	background-color: #fff;
+	width: 650px;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px; 
+	box-shadow: 0px 1px 2px rgba(0,0,0,0.2);
+}
+
+.quest-header {
+	height: 30px;
+}
+
+.quest-icon {
+	display: inline-block;
+	vertical-align: middle;
+	margin: -7px 5px 0px 5px;
+	font-size: 30px;
+}
+
+.quest-name {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 20px;
+}
+
+.quest-reqs {
+	margin-top: 3px;
+}
+
+.req-box {
+	display: inline-block;
+	vertical-align: top;
+	background-color: rgba(0,0,0,0.05);
+	padding: 0px 5px 0px 0px;
+	margin-top: 5px;
+	line-height: 25px;
+	height: 35px;
+	width: 75px
+}
+
+.req-box-image {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 25px;
+	height: 35px;
+	line-height: 35px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: rgba(0,0,0,0.05);
+}
+
+.req-box-level {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	font-weight: bold;
+	line-height: 35px;
+	width: 35px;
+	height: 35px;
+}
+
+.req-box.boostable {
+	width: 80px;
+}
+
+.req-box.boostable .req-box-level img {
+	width: 12px;
+}
+
+.pay-star {
+	font-size: 25px;
+}
+
+.header-box {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 25px;
+	height: 35px;
+	line-height: 35px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: rgba(0,0,0,0);
+}
+
+.req-box-image img, .header-box img {
+    display:inline-block;
+    vertical-align: middle;
+}
+
+.no-requirements-box {
+	background-color: rgba(0,0,0,0.05);
+	padding: 0px 5px 0px 0px;
+	margin-top: 5px;
+	line-height: 35px;
+	text-align: center;
+	height: 35px;
+	width: 200px;
+	font-weight: bold;
+}
+
+.quest-check-container {
+	position: relative;
+	width: 0px;
+	height: 0px;
+	margin-left: 618px;
+}
+
+.quest-runehq-link {
+	position: absolute;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	margin-left: -40px;
+}
+
+.quest-check {
+	position: absolute;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border: 1px solid #ccc;
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.quest-checkmark {
+	display: block;
+	width: 5px;
+	height: 0px;
+	background-color: green;
+	transition: 0.5s;
+}
+
+.quest-cm0 {
+	margin-left: 6px;
+	margin-top: 12px;
+	transform: rotateZ(-40deg);
+}
+
+.quest-cm1 {
+	margin-left: 14px;
+	margin-top: -19px;
+	transform: rotateZ(40deg);
+}
+
+.quest-cm0c {
+	height: 12px;
+	transition: 0.5s;
+}
+
+.quest-cm1c {
+	height: 20px;
+	transition: 0.5s;
+}
+
+.quest-req-box {
+	width: auto;
+	padding: 0px 10px 0px 10px;
+	margin-top: 5px;
+	line-height: 35px;
+	text-align: center;
+	height: 35px;
+	font-weight: bold;
+}
+
+#side-panel-footer {
+	border-top: 1px solid #ddd;
+	position: absolute;
+	bottom: 0;
+	width: 300px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+
+#title {
+	margin-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 25px;
+	border-bottom: 1px solid #ddd;
+
+}
+
+.subtitle {
+	margin: 10px 0px 10px 0px;
+	font-size: 20px;
+	text-align: center;
+}
+
+#skills-container{
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+.skill-input {
+	display: inline-block;
+	vertical-align: top;
+	width: 70px;
+	height: 30px;
+	margin-left: 20px;
+}
+
+.skill-input-img {
+	display: inline-block;
+	vertical-align: top;
+	width: 30px;
+	height: 30px;
+}
+
+.skill-input-box {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+
+.skill-input-box input {
+	width: 30px;
+	border: none;
+	border-bottom: 1px solid #ccc;
+}
+
+#last-skills-line {
+	margin-top: 10px;
+}
+
+#combat-level-display {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+	margin-top: 1px;
+	width: 100px;
+}
+
+#combat-level {
+	margin-left: 10px;
+	font-size: 25px;
+}
+
+#update-button-container {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 45px;
+}
+
+#update-button {
+	cursor: pointer;
+	width: 100px;
+	height: 30px;
+	background-color: #eee;
+	border: none;
+	transition: 0.5s;
+	box-shadow: 0px 3px 2px rgba(0,0,0,0);
+}
+
+#update-button:hover {
+	box-shadow: 0px 3px 2px rgba(0,0,0,0.2);
+}
+
+#filters {
+	margin-left: 10px;
+}
+
+#no-quests {
+	display: none;
+	padding: 40px;
+	font-size: 40px;	
+}
