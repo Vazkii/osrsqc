@@ -17,7 +17,7 @@
 
 	$doc = DOMDocument::loadHTMLFile(BASE_URL);
 	$quest_list = load_all_quests($doc);
-	//usort($quest_list, "cmp_quest_name");
+	usort($quest_list, "cmp_quest_name");
 	print_quest_list($quest_list);
 
 	// =============== FUNCTIONS ===============
