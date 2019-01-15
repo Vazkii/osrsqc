@@ -1,7 +1,1958 @@
 [
     {
+        "name": "Cook's Assistant",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Cook%27s_Assistant",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Romeo & Juliet",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Romeo_%26_Juliet",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Demon Slayer",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Demon_Slayer",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Shield of Arrav",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Shield_of_Arrav",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Sheep Shearer",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Sheep_Shearer",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Restless Ghost",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Restless_Ghost",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Ernest the Chicken",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Ernest_the_Chicken",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Vampire Slayer",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Vampire_Slayer",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Imp Catcher",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Imp_Catcher",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Prince Ali Rescue",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Prince_Ali_Rescue",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Doric's Quest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Doric%27s_Quest",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "mining",
+                    "level": 15,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Black Knights' Fortress",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Black_Knights%27_Fortress",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 12,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Witch's Potion",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Witch%27s_Potion",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Knight's Sword",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Knight%27s_Sword",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "mining",
+                    "level": 10,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Goblin Diplomacy",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Goblin_Diplomacy",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Pirate's Treasure",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Pirate%27s_Treasure",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Dragon Slayer",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Dragon_Slayer",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 32,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 8,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rune Mysteries",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Rune_Mysteries",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Misthalin Mystery",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Misthalin_Mystery",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Corsair Curse",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Corsair_Curse",
+        "members": false,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Druidic Ritual",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Druidic_Ritual",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Lost City",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Lost_City",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 31,
+                    "boostable": false
+                },
+                {
+                    "skill": "woodcutting",
+                    "level": 36,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Witch's House",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Witch%27s_House",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Merlin's Crystal",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Merlin%27s_Crystal",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Heroes' Quest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Heroes%27_Quest",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Shield of Arrav",
+                "Lost City",
+                "Merlin's Crystal",
+                "Dragon Slayer",
+                "Druidic Ritual"
+            ],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 55,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Scorpion Catcher",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Scorpion_Catcher",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "prayer",
+                    "level": 31,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Family Crest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Family_Crest",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "mining",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
+                    "skill": "smithing",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
+                    "skill": "magic",
+                    "level": 59,
+                    "boostable": true
+                },
+                {
+                    "skill": "crafting",
+                    "level": 40,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Monk's Friend",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Monk%27s_Friend",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Temple of Ikov",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Temple_of_Ikov",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "thieving",
+                    "level": 42,
+                    "boostable": true
+                },
+                {
+                    "skill": "ranged",
+                    "level": 40,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Clock Tower",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Clock_Tower",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Holy Grail",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Holy_Grail",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "attack",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tree Gnome Village",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Tree_Gnome_Village",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Fight Arena",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Fight_Arena",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Hazeel Cult",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Hazeel_Cult",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Sheep Herder",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Sheep_Herder",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Plague City",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Plague_City",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Waterfall Quest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Waterfall_Quest",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Jungle Potion",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Jungle_Potion",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "herblore",
+                    "level": 3,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Grand Tree",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Grand_Tree",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Underground Pass",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Underground_Pass",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Biohazard"
+            ],
+            "levels": [
+                {
+                    "skill": "ranged",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Observatory Quest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Observatory_Quest",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 10,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Watchtower",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Watchtower",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "magic",
+                    "level": 15,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 15,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 25,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 14,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 40,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Dwarf Cannon",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Dwarf_Cannon",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Murder Mystery",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Murder_Mystery",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Dig Site",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Dig_Site",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Gertrude's Cat",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Gertrude%27s_Cat",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Legends' Quest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Legends%27_Quest",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Family Crest",
+                "Heroes' Quest",
+                "Shilo Village",
+                "Underground Pass",
+                "Waterfall Quest"
+            ],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 107,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 50,
+                    "boostable": true
+                },
+                {
+                    "skill": "crafting",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 45,
+                    "boostable": true
+                },
+                {
+                    "skill": "magic",
+                    "level": 56,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 52,
+                    "boostable": true
+                },
+                {
+                    "skill": "prayer",
+                    "level": 42,
+                    "boostable": true
+                },
+                {
+                    "skill": "smithing",
+                    "level": 50,
+                    "boostable": true
+                },
+                {
+                    "skill": "strength",
+                    "level": 50,
+                    "boostable": true
+                },
+                {
+                    "skill": "thieving",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "woodcutting",
+                    "level": 50,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Death Plateau",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Death_Plateau",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Big Chompy Bird Hunting",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Big_Chompy_Bird_Hunting",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "fletching",
+                    "level": 5,
+                    "boostable": false
+                },
+                {
+                    "skill": "cooking",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "ranged",
+                    "level": 30,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Elemental Workshop I",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Elemental_Workshop_I",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "mining",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "smithing",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nature Spirit",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Nature_Spirit",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Priest in Peril",
+                "The Restless Ghost"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 18,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Priest in Peril",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Priest_in_Peril",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Regicide",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Regicide",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Underground Pass"
+            ],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 56,
+                    "boostable": true
+                },
+                {
+                    "skill": "crafting",
+                    "level": 10,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tai Bwo Wannai Trio",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Tai_Bwo_Wannai_Trio",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 15,
+                    "boostable": false
+                },
+                {
+                    "skill": "cooking",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "fishing",
+                    "level": 5,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Troll Stronghold",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Troll_Stronghold",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 15,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Horror from the Deep",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Horror_from_the_Deep",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 35,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Throne of Miscellania",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Throne_of_Miscellania",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "woodcutting",
+                    "level": 45,
+                    "boostable": false
+                },
+                {
+                    "skill": "farming",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "fishing",
+                    "level": 35,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Monkey Madness I",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Monkey_Madness_I",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "The Grand Tree",
+                "Tree Gnome Village"
+            ],
+            "levels": [
+                {
+                    "skill": "prayer",
+                    "level": 43,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Haunted Mine",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Haunted_Mine",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 15,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 35,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Troll Romance",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Troll_Romance",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Troll Stronghold"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "In Search of the Myreque",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/In_Search_of_the_Myreque",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Nature Spirit"
+            ],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Creature of Fenkenstrain",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Creature_of_Fenkenstrain",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Priest in Peril",
+                "The Restless Ghost"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Roving Elves",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Roving_Elves",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Regicide",
+                "Waterfall Quest"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "One Small Favour",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/One_Small_Favour",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Rune Mysteries",
+                "Shilo Village"
+            ],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 36,
+                    "boostable": true
+                },
+                {
+                    "skill": "crafting",
+                    "level": 25,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 18,
+                    "boostable": false
+                },
+                {
+                    "skill": "smithing",
+                    "level": 30,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mountain Daughter",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Mountain_Daughter",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Between a Rock...",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Between_a_Rock...",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Dwarf Cannon",
+                "Fishing Contest"
+            ],
+            "levels": [
+                {
+                    "skill": "defence",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
+                    "skill": "smithing",
+                    "level": 50,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Golem",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Golem",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Desert Treasure",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Desert_Treasure",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "The Dig Site",
+                "Temple of Ikov",
+                "The Tourist Trap",
+                "Troll Stronghold",
+                "Priest in Peril",
+                "Waterfall Quest"
+            ],
+            "levels": [
+                {
+                    "skill": "thieving",
+                    "level": 53,
+                    "boostable": true
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "slayer",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 50,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Icthlarin's Little Helper",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Icthlarin%27s_Little_Helper",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Tears of Guthix (quest)",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Tears_of_Guthix_(quest)",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 43,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 49,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Lost Tribe",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Lost_Tribe",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 13,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 13,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 17,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Giant Dwarf",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Giant_Dwarf",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 12,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 16,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 33,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 14,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "smithing",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Recruitment Drive",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Recruitment_Drive",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 12,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mourning's Ends Part I",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Mourning%27s_Ends_Part_I",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Roving Elves",
+                "Big Chompy Bird Hunting",
+                "Sheep Herder"
+            ],
+            "levels": [
+                {
+                    "skill": "ranged",
+                    "level": 60,
+                    "boostable": true
+                },
+                {
+                    "skill": "thieving",
+                    "level": 50,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Garden of Tranquillity",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Garden_of_Tranquillity",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Creature of Fenkenstrain"
+            ],
+            "levels": [
+                {
+                    "skill": "farming",
+                    "level": 25,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "A Tail of Two Cats",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/A_Tail_of_Two_Cats",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Icthlarin's Little Helper"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "Wanted!",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Wanted!",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Recruitment Drive",
+                "Rune Mysteries",
+                "The Lost Tribe",
+                "Priest in Peril"
+            ],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 32,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mourning's Ends Part II",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Mourning%27s_Ends_Part_II",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "prayer",
+                    "level": 43,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 60,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rum Deal",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Rum_Deal",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Zogre Flesh Eaters",
+                "Priest in Peril"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 42,
+                    "boostable": false
+                },
+                {
+                    "skill": "fishing",
+                    "level": 50,
+                    "boostable": true
+                },
+                {
+                    "skill": "farming",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
+                    "skill": "prayer",
+                    "level": 47,
+                    "boostable": true
+                },
+                {
+                    "skill": "slayer",
+                    "level": 42,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shadow of the Storm",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Shadow_of_the_Storm",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "The Golem",
+                "Demon Slayer"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "Ratcatchers",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Ratcatchers",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Icthlarin's Little Helper"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "Spirits of the Elid",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Spirits_of_the_Elid",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "magic",
+                    "level": 33,
+                    "boostable": true
+                },
+                {
+                    "skill": "ranged",
+                    "level": 37,
+                    "boostable": true
+                },
+                {
+                    "skill": "mining",
+                    "level": 37,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 37,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Devious Minds",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Devious_Minds",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Wanted!",
+                "Troll Stronghold",
+                "Doric's Quest",
+                "Enter the Abyss"
+            ],
+            "levels": [
+                {
+                    "skill": "smithing",
+                    "level": 65,
+                    "boostable": true
+                },
+                {
+                    "skill": "runecraft",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "fletching",
+                    "level": 50,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Enakhra's Lament",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Enakhra%27s_Lament",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 45,
+                    "boostable": false
+                },
+                {
+                    "skill": "prayer",
+                    "level": 43,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 39,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 45,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cabin Fever",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Cabin_Fever",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Pirate's Treasure",
+                "Rum Deal",
+                "Priest in Peril"
+            ],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 42,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 45,
+                    "boostable": false
+                },
+                {
+                    "skill": "smithing",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "ranged",
+                    "level": 40,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fairytale I - Growing Pains",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Fairytale_I_-_Growing_Pains",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Lost City",
+                "Nature Spirit"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "Recipe for Disaster",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Recipe_for_Disaster",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Cook's Assistant",
+                "Fishing Contest",
+                "Goblin Diplomacy",
+                "Big Chompy Bird Hunting",
+                "Murder Mystery",
+                "Nature Spirit",
+                "Witch's House",
+                "Gertrude's Cat",
+                "Shadow of the Storm",
+                "Started Legends' Quest",
+                "Monkey Madness I",
+                "Desert Treasure",
+                "Horror from the Deep"
+            ],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 175,
+                    "boostable": false
+                },
+                {
+                    "skill": "cooking",
+                    "level": 70,
+                    "boostable": true
+                },
+                {
+                    "skill": "agility",
+                    "level": 48,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 50,
+                    "boostable": true
+                },
+                {
+                    "skill": "fishing",
+                    "level": 53,
+                    "boostable": true
+                },
+                {
+                    "skill": "thieving",
+                    "level": 53,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 25,
+                    "boostable": true
+                },
+                {
+                    "skill": "magic",
+                    "level": 59,
+                    "boostable": true
+                },
+                {
+                    "skill": "smithing",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 50,
+                    "boostable": false
+                },
+                {
+                    "skill": "ranged",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "fletching",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "slayer",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "woodcutting",
+                    "level": 36,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "In Aid of the Myreque",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/In_Aid_of_the_Myreque",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "In Search of the Myreque"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 25,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 15,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 7,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "A Soul's Bane",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/A_Soul%27s_Bane",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Rag and Bone Man",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Rag_and_Bone_Man",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Swan Song",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Swan_Song",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "One Small Favour",
+                "Garden of Tranquillity"
+            ],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 100,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 66,
+                    "boostable": true
+                },
+                {
+                    "skill": "cooking",
+                    "level": 62,
+                    "boostable": true
+                },
+                {
+                    "skill": "fishing",
+                    "level": 62,
+                    "boostable": true
+                },
+                {
+                    "skill": "smithing",
+                    "level": 45,
+                    "boostable": true
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 42,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 40,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Royal Trouble",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Royal_Trouble",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
+                    "skill": "slayer",
+                    "level": 40,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Death to the Dorgeshuun",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Death_to_the_Dorgeshuun",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "The Lost Tribe"
+            ],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 23,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 23,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Fairytale II - Cure a Queen",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Fairytale_II_-_Cure_a_Queen",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Fairytale I - Growing Pains"
+            ],
+            "levels": [
+                {
+                    "skill": "thieving",
+                    "level": 40,
+                    "boostable": true
+                },
+                {
+                    "skill": "farming",
+                    "level": 49,
+                    "boostable": true
+                },
+                {
+                    "skill": "herblore",
+                    "level": 57,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Lunar Diplomacy",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Lunar_Diplomacy",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "The Fremennik Trials",
+                "Lost City",
+                "Rune Mysteries",
+                "Shilo Village"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 61,
+                    "boostable": false
+                },
+                {
+                    "skill": "defence",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 49,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 65,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 60,
+                    "boostable": false
+                },
+                {
+                    "skill": "woodcutting",
+                    "level": 55,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Eyes of Glouphrie",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Eyes_of_Glouphrie",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "construction",
+                    "level": 5,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 46,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darkness of Hallowvale",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Darkness_of_Hallowvale",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "In Aid of the Myreque"
+            ],
+            "levels": [
+                {
+                    "skill": "construction",
+                    "level": 5,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 20,
+                    "boostable": true
+                },
+                {
+                    "skill": "thieving",
+                    "level": 22,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 26,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 32,
+                    "boostable": false
+                },
+                {
+                    "skill": "magic",
+                    "level": 33,
+                    "boostable": false
+                },
+                {
+                    "skill": "strength",
+                    "level": 40,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Elemental Workshop II",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Elemental_Workshop_II",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "magic",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "smithing",
+                    "level": 30,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "My Arm's Big Adventure",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/My_Arm%27s_Big_Adventure",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Eadgar's Ruse",
+                "The Feud",
+                "Jungle Potion"
+            ],
+            "levels": [
+                {
+                    "skill": "woodcutting",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "farming",
+                    "level": 29,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "Enlightened Journey",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Enlightened_Journey",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "farming",
+                    "level": 30,
+                    "boostable": true
+                },
+                {
+                    "skill": "crafting",
+                    "level": 36,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Eagles' Peak",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Eagles%27_Peak",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "hunter",
+                    "level": 27,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
         "name": "Animal Magnetism",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/animal-magnetism",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Animal_Magnetism",
         "members": true,
         "requirements": {
             "quests": [
@@ -11,458 +1962,161 @@
             ],
             "levels": [
                 {
+                    "skill": "slayer",
                     "level": 18,
-                    "skill": "slayer"
+                    "boostable": false
                 },
                 {
+                    "skill": "crafting",
                     "level": 19,
-                    "skill": "crafting"
+                    "boostable": false
                 },
                 {
+                    "skill": "ranged",
                     "level": 30,
-                    "skill": "ranged"
+                    "boostable": false
                 },
                 {
+                    "skill": "woodcutting",
                     "level": 35,
-                    "skill": "woodcutting"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Another Slice of H.A.M.",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/another-slice-of-h-a-m",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Death to the Dorgeshuun",
-                "The Giant Dwarf",
-                "The Digsite"
-            ],
-            "levels": [
-                {
-                    "level": 15,
-                    "skill": "attack"
+                    "boostable": false
                 },
                 {
-                    "level": 25,
-                    "skill": "prayer"
+                    "skill": "prayer",
+                    "level": 31,
+                    "boostable": false
                 }
-            ],
-            "others": [
-                "Be able to defeat a level 60 foe, and two level 30 foes using only Ranged or Magic."
             ]
-        }
-    },
-    {
-        "name": "Between a Rock...",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/between-a-rock",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Fishing Contest",
-                "Dwarf Cannon"
-            ],
-            "levels": [
-                {
-                    "level": 30,
-                    "skill": "defence"
-                },
-                {
-                    "level": 50,
-                    "skill": "smithing",
-                    "boostable": true
-                },
-                {
-                    "level": 40,
-                    "skill": "mining",
-                    "boostable": true
-                }
-            ],
-            "others": [
-                "Must be able to defeat a level 75 to 125 enemy."
-            ]
-        }
-    },
-    {
-        "name": "Big Chompy Bird Hunting",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/big-chompy-bird-hunting",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 5,
-                    "skill": "fletching"
-                },
-                {
-                    "level": 30,
-                    "skill": "cooking"
-                },
-                {
-                    "level": 30,
-                    "skill": "ranged"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Biohazard",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/biohazard",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Plague City"
-            ],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Black Knights' Fortress",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/black-knights-fortress",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 12,
-                    "skill": "quest_points"
-                }
-            ],
-            "others": [
-                "Be able to defeat level 33 Black knights.",
-                "Having level 26 Smithing could be an advantage."
-            ]
-        }
-    },
-    {
-        "name": "Cabin Fever",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/cabin-fever",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Rum Deal",
-                "Pirate's Treasure"
-            ],
-            "levels": [
-                {
-                    "level": 42,
-                    "skill": "agility"
-                },
-                {
-                    "level": 45,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 50,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 40,
-                    "skill": "ranged"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Clock Tower",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/clock-tower",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Cold War",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/cold-war",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "hunter"
-                },
-                {
-                    "level": 15,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 30,
-                    "skill": "agility"
-                },
-                {
-                    "level": 30,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 34,
-                    "skill": "construction"
-                }
-            ],
-            "others": []
         }
     },
     {
         "name": "Contact!",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/contact",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Contact!",
         "members": true,
         "requirements": {
             "quests": [
                 "Prince Ali Rescue",
-                "Gertrude's Cat",
                 "Icthlarin's Little Helper"
             ],
-            "levels": [],
-            "others": []
+            "levels": []
         }
     },
     {
-        "name": "Cook's Assistant",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/cook-s-assistant",
-        "members": false,
+        "name": "Cold War",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Cold_War",
+        "members": true,
         "requirements": {
             "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Creature of Fenkenstrain",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/creature-of-fenkenstrain",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Restless Ghost",
-                "Priest in Peril"
-            ],
             "levels": [
                 {
-                    "level": 25,
-                    "skill": "thieving"
+                    "skill": "hunter",
+                    "level": 10,
+                    "boostable": false
                 },
                 {
-                    "level": 20,
-                    "skill": "crafting"
+                    "skill": "agility",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "construction",
+                    "level": 34,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 15,
+                    "boostable": false
                 }
-            ],
-            "others": []
+            ]
         }
     },
     {
-        "name": "Darkness of Hallowvale",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/darkness-of-hallowvale",
+        "name": "The Fremennik Isles",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Fremennik_Isles",
         "members": true,
         "requirements": {
-            "quests": [
-                "In Aid of the Myreque"
-            ],
+            "quests": [],
             "levels": [
                 {
-                    "level": 5,
-                    "skill": "construction"
-                },
-                {
+                    "skill": "construction",
                     "level": 20,
-                    "skill": "mining"
+                    "boostable": false
                 },
                 {
-                    "level": 22,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 26,
-                    "skill": "agility"
-                },
-                {
-                    "level": 32,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 33,
-                    "skill": "magic"
-                },
-                {
+                    "skill": "agility",
                     "level": 40,
-                    "skill": "strength"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Death Plateau",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/death-plateau",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Death to the Dorgeshuun",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/death-to-the-dorgeshuun",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Lost Tribe"
-            ],
-            "levels": [
-                {
-                    "level": 23,
-                    "skill": "agility"
-                },
-                {
-                    "level": 23,
-                    "skill": "thieving"
-                }
-            ],
-            "others": [
-                "Able to defeat a level 50 enemy with Magic or Melee only! (Ranged will not work)"
-            ]
-        }
-    },
-    {
-        "name": "Demon Slayer",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/demon-slayer",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Be able to defeat an apocalyptic demon (Level 27, weakened with Silverlight Sword acquired during the quest)."
-            ]
-        }
-    },
-    {
-        "name": "Desert Treasure",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/desert-treasure",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Digsite",
-                "The Tourist Trap",
-                "Temple of Ikov",
-                "Priest in Peril",
-                "Waterfall Quest",
-                "Troll Stronghold"
-            ],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "slayer"
-                },
-                {
-                    "level": 50,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 50,
-                    "skill": "magic"
-                },
-                {
-                    "level": 53,
-                    "skill": "thieving"
-                }
-            ],
-            "others": [
-                "A high Agility level will be a distinct advantage",
-                "Be able to defeat extremely tough enemies above level 150."
-            ]
-        }
-    },
-    {
-        "name": "Devious Minds",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/devious-minds",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Doric's Quest",
-                "Troll Stronghold",
-                "Wanted!"
-            ],
-            "levels": [
-                {
-                    "level": 65,
-                    "skill": "smithing",
                     "boostable": true
-                },
-                {
-                    "level": 50,
-                    "skill": "fletching"
-                },
-                {
-                    "level": 50,
-                    "skill": "runecrafting"
                 }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Digsite",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/digsite-the",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Druidic Ritual"
-            ],
-            "levels": [
-                {
-                    "level": 25,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 10,
-                    "skill": "agility"
-                },
-                {
-                    "level": 10,
-                    "skill": "herblore"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Doric's Quest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/dorics-quest",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "15 Mining is an advantage."
             ]
         }
     },
     {
-        "name": "Dragon Slayer",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/dragon-slayer",
-        "members": false,
+        "name": "The Great Brain Robbery",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Great_Brain_Robbery",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Creature of Fenkenstrain",
+                "Cabin Fever",
+                "Pirate Pete subquest of Recipe for Disaster"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 16,
+                    "boostable": false
+                },
+                {
+                    "skill": "construction",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "prayer",
+                    "level": 50,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "What Lies Below",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/What_Lies_Below",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Olaf's Quest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Olaf%27s_Quest",
+        "members": true,
         "requirements": {
             "quests": [],
             "levels": [
                 {
-                    "level": 32,
-                    "skill": "quest_points"
+                    "skill": "firemaking",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "woodcutting",
+                    "level": 50,
+                    "boostable": true
                 }
-            ],
-            "others": [
-                "Be able to kill the level 83 Green dragon Elvarg."
             ]
         }
     },
     {
         "name": "Dream Mentor",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/dream-mentor",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Dream_Mentor",
         "members": true,
         "requirements": {
             "quests": [
@@ -471,321 +2125,571 @@
             ],
             "levels": [
                 {
+                    "skill": "combat",
                     "level": 85,
-                    "skill": "combat_level"
+                    "boostable": false
                 }
+            ]
+        }
+    },
+    {
+        "name": "Grim Tales",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Grim_Tales",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "farming",
+                    "level": 45,
+                    "boostable": true
+                },
+                {
+                    "skill": "herblore",
+                    "level": 52,
+                    "boostable": true
+                },
+                {
+                    "skill": "thieving",
+                    "level": 58,
+                    "boostable": true
+                },
+                {
+                    "skill": "agility",
+                    "level": 59,
+                    "boostable": true
+                },
+                {
+                    "skill": "woodcutting",
+                    "level": 71,
+                    "boostable": true
+                }
+            ]
+        }
+    },
+    {
+        "name": "King's Ransom",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/King%27s_Ransom",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Black Knights' Fortress",
+                "Holy Grail",
+                "Murder Mystery",
+                "One Small Favour"
             ],
-            "others": []
+            "levels": [
+                {
+                    "skill": "magic",
+                    "level": 45,
+                    "boostable": false
+                },
+                {
+                    "skill": "defence",
+                    "level": 65,
+                    "boostable": true
+                }
+            ]
         }
     },
     {
-        "name": "Druidic Ritual",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/druidic-ritual",
+        "name": "Shilo Village",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Shilo_Village",
         "members": true,
         "requirements": {
             "quests": [],
-            "levels": [],
-            "others": []
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 32,
+                    "boostable": true
+                },
+                {
+                    "skill": "smithing",
+                    "level": 4,
+                    "boostable": false
+                }
+            ]
         }
     },
     {
-        "name": "Dwarf Cannon",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/dwarf-cannon",
+        "name": "Biohazard",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Biohazard",
         "members": true,
         "requirements": {
             "quests": [],
-            "levels": [],
-            "others": [
-                "20 Agility for the log bridge shortcut from Seers' Village is recommended."
+            "levels": []
+        }
+    },
+    {
+        "name": "Tower of Life",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Tower_of_Life",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "construction",
+                    "level": 10,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rag and Bone Man II",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Rag_and_Bone_Man_II",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "slayer",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "defence",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zogre Flesh Eaters",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Zogre_Flesh_Eaters",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Big Chompy Bird Hunting",
+                "Jungle Potion"
+            ],
+            "levels": [
+                {
+                    "skill": "smithing",
+                    "level": 4,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 8,
+                    "boostable": false
+                },
+                {
+                    "skill": "ranged",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "fletching",
+                    "level": 30,
+                    "boostable": false
+                },
+                {
+                    "skill": "strength",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "prayer",
+                    "level": 43,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Monkey Madness II",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Monkey_Madness_II",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Enlightened Journey ",
+                "The Eyes of Glouphrie",
+                "Recipe for Disaster ",
+                "Troll Stronghold",
+                "Watchtower"
+            ],
+            "levels": [
+                {
+                    "skill": "slayer",
+                    "level": 69,
+                    "boostable": false
+                },
+                {
+                    "skill": "crafting",
+                    "level": 70,
+                    "boostable": false
+                },
+                {
+                    "skill": "hunter",
+                    "level": 60,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 55,
+                    "boostable": false
+                },
+                {
+                    "skill": "thieving",
+                    "level": 55,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 60,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Client of Kourend",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Client_of_Kourend",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Queen of Thieves",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Queen_of_Thieves",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Client of Kourend"
+            ],
+            "levels": [
+                {
+                    "skill": "thieving",
+                    "level": 20,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bone Voyage",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Bone_Voyage",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "The Dig Site"
+            ],
+            "levels": []
+        }
+    },
+    {
+        "name": "Dragon Slayer II",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Dragon_Slayer_II",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Legends' Quest",
+                "Dream Mentor",
+                "A Tail of Two Cats",
+                "Animal Magnetism",
+                "Ghosts Ahoy",
+                "Bone Voyage",
+                "Client of Kourend"
+            ],
+            "levels": [
+                {
+                    "skill": "quest",
+                    "level": 200,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Depths of Despair",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Depths_of_Despair",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Client of Kourend"
+            ],
+            "levels": [
+                {
+                    "skill": "agility",
+                    "level": 18,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "A Taste of Hope",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/A_Taste_of_Hope",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Darkness of Hallowvale"
+            ],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 48,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 45,
+                    "boostable": false
+                },
+                {
+                    "skill": "attack",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 40,
+                    "boostable": false
+                },
+                {
+                    "skill": "slayer",
+                    "level": 38,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tale of the Righteous",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Tale_of_the_Righteous",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Client of Kourend"
+            ],
+            "levels": [
+                {
+                    "skill": "strength",
+                    "level": 16,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 10,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Making Friends with My Arm",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Making_Friends_with_My_Arm",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "My Arm's Big Adventure",
+                "Swan Song",
+                "Cold War",
+                "Romeo & Juliet"
+            ],
+            "levels": [
+                {
+                    "skill": "firemaking",
+                    "level": 66,
+                    "boostable": false
+                },
+                {
+                    "skill": "mining",
+                    "level": 72,
+                    "boostable": false
+                },
+                {
+                    "skill": "construction",
+                    "level": 35,
+                    "boostable": false
+                },
+                {
+                    "skill": "agility",
+                    "level": 68,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Ascent of Arceuus",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Ascent_of_Arceuus",
+        "members": true,
+        "requirements": {
+            "quests": [
+                "Client of Kourend"
+            ],
+            "levels": [
+                {
+                    "skill": "hunter",
+                    "level": 12,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Forsaken Tower",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Forsaken_Tower",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Fishing Contest",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Fishing_Contest",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "fishing",
+                    "level": 10,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tribal Totem",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Tribal_Totem",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "thieving",
+                    "level": 21,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sea Slug",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Sea_Slug",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Tourist Trap",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Tourist_Trap",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "fletching",
+                    "level": 10,
+                    "boostable": false
+                },
+                {
+                    "skill": "smithing",
+                    "level": 20,
+                    "boostable": false
+                }
             ]
         }
     },
     {
         "name": "Eadgar's Ruse",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/eadgars-ruse",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Eadgar%27s_Ruse",
         "members": true,
         "requirements": {
             "quests": [
-                "Troll Stronghold",
-                "Druidic Ritual"
+                "Druidic Ritual",
+                "Troll Stronghold"
             ],
             "levels": [
                 {
+                    "skill": "herblore",
                     "level": 31,
-                    "skill": "herblore"
-                }
-            ],
-            "others": [
-                "47 Agility is a big advantage."
-            ]
-        }
-    },
-    {
-        "name": "Eagles' Peak",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/eagles-peak",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 27,
-                    "skill": "hunter"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Elemental Workshop I",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/elemental-workshop-i-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "mining"
-                },
-                {
-                    "level": 20,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 20,
-                    "skill": "crafting"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Elemental Workshop II",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/elemental-workshop-ii-the",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Elemental Workshop I"
-            ],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "magic"
-                },
-                {
-                    "level": 30,
-                    "skill": "smithing"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Enakhra's Lament",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/enakhras-lament",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 50,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 45,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 39,
-                    "skill": "magic"
-                }
-            ],
-            "others": [
-                "45 Mining (Recommended, but not required - You can buy the required Sandstone and Granite)",
-                "43 Prayer (Recommended, along with at least 10 Prayer points)"
-            ]
-        }
-    },
-    {
-        "name": "Enlightened Journey",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/enlightened-journey",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 30,
-                    "skill": "farming"
-                },
-                {
-                    "level": 36,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 20,
-                    "skill": "quest_points"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Ernest the Chicken",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/ernest-the-chicken",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "The Eyes of Glouphrie",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/eyes-of-glouphrie-the",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Grand Tree"
-            ],
-            "levels": [
-                {
-                    "level": 5,
-                    "skill": "construction"
-                },
-                {
-                    "level": 46,
-                    "skill": "magic"
-                }
-            ],
-            "others": [
-                "13 Runecrafting would be an advantage",
-                "45 Woodcutting would be an advantage."
-            ]
-        }
-    },
-    {
-        "name": "Fairytale I - Growing Pains",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/fairytale-i-growing-pains",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Lost City",
-                "Nature Spirit"
-            ],
-            "levels": [],
-            "others": [
-                "Ability to defeat a level 111 monster",
-                "High Farming would be an advantage."
-            ]
-        }
-    },
-    {
-        "name": "Fairytale II - Cure a Queen",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/fairytale-ii-cure-a-queen",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Fairytale I - Growing Pains"
-            ],
-            "levels": [
-                {
-                    "level": 57,
-                    "skill": "herblore"
-                },
-                {
-                    "level": 49,
-                    "skill": "farming"
-                },
-                {
-                    "level": 40,
-                    "skill": "thieving"
-                }
-            ],
-            "others": [
-                "Ability to defeat a level 145 foe.",
-                "Note: Players are not required to meet these requirements to use the fairy rings system. Simply complete small portion of the quest to obtain permission to use them."
-            ]
-        }
-    },
-    {
-        "name": "Family Crest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/family-crest",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 40,
-                    "skill": "mining"
-                },
-                {
-                    "level": 40,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 40,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 59,
-                    "skill": "magic",
                     "boostable": true
+                },
+                {
+                    "skill": "agility",
+                    "level": 44,
+                    "boostable": false
                 }
-            ],
-            "others": []
+            ]
+        }
+    },
+    {
+        "name": "Shades of Mort'ton",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Shades_of_Mort%27ton",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": [
+                {
+                    "skill": "crafting",
+                    "level": 20,
+                    "boostable": false
+                },
+                {
+                    "skill": "herblore",
+                    "level": 15,
+                    "boostable": false
+                },
+                {
+                    "skill": "firemaking",
+                    "level": 5,
+                    "boostable": false
+                }
+            ]
+        }
+    },
+    {
+        "name": "The Fremennik Trials",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Fremennik_Trials",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "Ghosts Ahoy",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Ghosts_Ahoy",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
         }
     },
     {
         "name": "The Feud",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/feud-the",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Feud",
         "members": true,
         "requirements": {
             "quests": [],
             "levels": [
                 {
+                    "skill": "thieving",
                     "level": 30,
-                    "skill": "thieving"
+                    "boostable": true
                 }
-            ],
-            "others": [
-                "Ability to kill level 75 Bandit."
             ]
         }
     },
     {
-        "name": "Fight Arena",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/fight-arena",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Ability to defeat level 137 Bouncer",
-                "Ability to defeat level 112 General Khazard."
-            ]
-        }
-    },
-    {
-        "name": "Fishing Contest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/fishing-contest",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "fishing"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Forgettable Tale of a Drunken Dwarf",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/forgettable-tale-of-a-drunken-dwarf",
+        "name": "Forgettable Tale...",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Forgettable_Tale...",
         "members": true,
         "requirements": {
             "quests": [
@@ -794,1873 +2698,91 @@
             ],
             "levels": [
                 {
-                    "level": 17,
-                    "skill": "farming"
-                },
-                {
+                    "skill": "cooking",
                     "level": 22,
-                    "skill": "cooking"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Fremennik Isles",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/fremennik-isles-the",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Fremennik Trials"
-            ],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "construction"
+                    "boostable": false
                 },
                 {
-                    "level": 40,
-                    "skill": "agility"
-                },
-                {
-                    "level": 46,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 56,
-                    "skill": "woodcutting"
-                }
-            ],
-            "others": [
-                "The ability to defeat a level 122 troll.",
-                "Be able to survive attacks by lots of trolls with rocks in a multicombat area."
-            ]
-        }
-    },
-    {
-        "name": "The Fremennik Trials",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/fremennik-trials-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 40,
-                    "skill": "woodcutting"
-                },
-                {
-                    "level": 40,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 25,
-                    "skill": "fletching"
-                }
-            ],
-            "others": [
-                "Be able to defeat a level 69 monster."
-            ]
-        }
-    },
-    {
-        "name": "Garden of Tranquillity",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/garden-of-tranquillity",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Creature of Fenkenstrain"
-            ],
-            "levels": [
-                {
-                    "level": 25,
-                    "skill": "farming"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Gertrude's Cat",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/gertrudes-cat",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Ghosts Ahoy",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/ghosts-ahoy",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Restless Ghost",
-                "Priest in Peril"
-            ],
-            "levels": [
-                {
-                    "level": 25,
-                    "skill": "agility"
-                },
-                {
-                    "level": 20,
-                    "skill": "cooking"
-                }
-               ],
-            "others": [
-                "Ability to defeat a level 32 Giant Lobster."
-            ]
-        }
-    },
-    {
-        "name": "The Giant Dwarf",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/giant-dwarf-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 33,
-                    "skill": "magic"
-                },
-                {
-                    "level": 16,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 14,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 12,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "20+ mining highly recommended, but not necessary",
-                "20+ smithing highly recommended, but not necessary",
-                "An affinity for diplomacy."
-            ]
-        }
-    },
-    {
-        "name": "Goblin Diplomacy",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/goblin-diplomacy",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "The Golem",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/golem-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 25,
-                    "skill": "thieving"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Grand Tree",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/grand-tree-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 25,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Ability to defeat a Level 172 Black Demon."
-            ]
-        }
-    },
-    {
-        "name": "The Great Brain Robbery",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/great-brain-robbery-the",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Creature of Fenkenstrain",
-                "Recipe for Disaster",
-                "Rum Deal",
-                "Cabin Fever"
-            ],
-            "levels": [
-                {
-                    "level": 16,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 30,
-                    "skill": "construction"
-                },
-                {
-                    "level": 50,
-                    "skill": "prayer"
-                }
-            ],
-            "others": [
-                "Access to a Player Owned House workshop",
-                "Ability to defeat a level 190 monster without using Prayer"
-            ]
-        }
-    },
-    {
-        "name": "Grim Tales",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/grim-tales",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Witch's House"
-            ],
-            "levels": [
-                {
-                    "level": 45,
                     "skill": "farming",
-                    "boostable": true
-                },
-                {
-                    "level": 52,
-                    "skill": "herblore",
-                    "boostable": true
-                },
-                {
-                    "level": 58,
-                    "skill": "thieving",
-                    "boostable": true
-                },
-                {
-                    "level": 59,
-                    "skill": "agility",
-                    "boostable": true
-                },
-                {
-                    "level": 71,
-                    "skill": "woodcutting",
-                    "boostable": true
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Hand in the Sand",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/hand-in-the-sand-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
                     "level": 17,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 49,
-                    "skill": "crafting"
+                    "boostable": false
                 }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Haunted Mine",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/haunted-mine",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Priest in Peril"
-            ],
-            "levels": [
-                {
-                    "level": 15,
-                    "skill": "agility"
-                },
-                {
-                    "level": 35,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "40 Prayer (Recommended)",
-                "Able to defeat a level 95 enemy."
             ]
-        }
-    },
-    {
-        "name": "Hazeel Cult",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/hazeel-cult",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Heroes' Quest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/heroes-quest",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Shield of Arrav",
-                "Merlin's Crystal",
-                "Lost City",
-                "Dragon Slayer"
-            ],
-            "levels": [
-                {
-                    "level": 55,
-                    "skill": "quest_points"
-                },
-                {
-                    "level": 53,
-                    "skill": "cooking"
-                },
-                {
-                    "level": 25,
-                    "skill": "herblore",
-                    "boostable": true
-                },
-                {
-                    "level": 50,
-                    "skill": "mining",
-                    "boostable": true
-                },
-                {
-                    "level": 53,
-                    "skill": "fishing",
-                    "boostable": true
-                }
-            ],
-            "others": [
-                "Level 43 prayer is helpful, but not required.",
-                "70 Agility for use of the pipe shortcut is an advantage.",
-                "A friend from a rival gang"
-            ]
-        }
-    },
-    {
-        "name": "Holy Grail",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/holy-grail",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Merlin's Crystal"
-            ],
-            "levels": [
-                {
-                    "level": 30,
-                    "skill": "attack"
-                }
-            ],
-            "others": [
-                "Must defeat a level 120 Black Knight Titan"
-            ]
-        }
-    },
-    {
-        "name": "Horror From The Deep",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/horror-from-the-deep",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 35,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Must be able to defeat two level 100 monsters",
-                "13 Magic is an advantage"
-            ]
-        }
-    },
-    {
-        "name": "Icthlarin's Little Helper",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/icthlarins-little-helper",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Gertrude's Cat"
-            ],
-            "levels": [],
-            "others": [
-                "High Agility would be an advantage",
-                "Must be able to defeat a level 80 Boss",
-                "An aptitude for puzzles would be an advantage"
-            ]
-        }
-    },
-    {
-        "name": "Imp Catcher",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/imp-catcher",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "In Aid of the Myreque",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/in-aid-of-the-myreque",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Nature Spirit",
-                "In Search of the Myreque"
-            ],
-            "levels": [
-                {
-                    "level": 15,
-                    "skill": "mining"
-                },
-                {
-                    "level": 25,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 7,
-                    "skill": "magic"
-                }
-            ],
-            "others": [
-                "Be able to defeat a level 60 foe who is resistant to most weapons."
-            ]
-        }
-    },
-    {
-        "name": "In Search of the Myreque",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/in-search-of-the-myreque",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Nature Spirit"
-            ],
-            "levels": [
-                {
-                    "level": 25,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Must be able to defeat a level 97 foe."
-            ]
-        }
-    },
-    {
-        "name": "Jungle Potion",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/jungle-potion",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Druidic Ritual"
-            ],
-            "levels": [
-                {
-                    "level": 3,
-                    "skill": "herblore"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "King's Ransom",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/kings-ransom",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Black Knights' Fortress",
-                "Merlin's Crystal",
-                "Holy Grail",
-                "Murder Mystery",
-                "One Small Favour"
-            ],
-            "levels": [
-                {
-                    "level": 45,
-                    "skill": "magic"
-                },
-                {
-                    "level": 65,
-                    "skill": "defence"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Knight's Sword",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/knights-sword-the",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "mining",
-                    "boostable": true
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Legends' Quest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/legends-quest",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Family Crest",
-                "Heroes' Quest",
-                "Underground Pass",
-                "Shilo Village",
-                "Waterfall Quest"
-            ],
-            "levels": [
-                {
-                    "level": 56,
-                    "skill": "magic"
-                },
-                {
-                    "level": 52,
-                    "skill": "mining"
-                },
-                {
-                    "level": 50,
-                    "skill": "agility"
-                },
-                {
-                    "level": 50,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 50,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 50,
-                    "skill": "strength"
-                },
-                {
-                    "level": 50,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 50,
-                    "skill": "woodcutting"
-                },
-                {
-                    "level": 42,
-                    "skill": "prayer"
-                },
-                {
-                    "level": 45,
-                    "skill": "herblore",
-                    "boostable": true
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Lost City",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/lost-city",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 31,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 36,
-                    "skill": "woodcutting"
-                }
-            ],
-            "others": [
-                "Must be able kill a level 101 enemy."
-            ]
-        }
-    },
-    {
-        "name": "The Lost Tribe",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/lost-tribe-the",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Rune Mysteries",
-                "Goblin Diplomacy"
-            ],
-            "levels": [
-                {
-                    "level": 17,
-                    "skill": "mining"
-                },
-                {
-                    "level": 13,
-                    "skill": "agility"
-                },
-                {
-                    "level": 13,
-                    "skill": "thieving"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Lunar Diplomacy",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/lunar-diplomacy",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Fremennik Trials",
-                "Lost City",
-                "Rune Mysteries",
-                "Shilo Village"
-            ],
-            "levels": [
-                {
-                    "level": 61,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 40,
-                    "skill": "defence"
-                },
-                {
-                    "level": 49,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 5,
-                    "skill": "herblore"
-                },
-                {
-                    "level": 65,
-                    "skill": "magic"
-                },
-                {
-                    "level": 60,
-                    "skill": "mining"
-                },
-                {
-                    "level": 55,
-                    "skill": "woodcutting"
-                }
-            ],
-            "others": []
         }
     },
     {
         "name": "Making History",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/making-history",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Making_History",
         "members": true,
         "requirements": {
             "quests": [
                 "Priest in Peril",
                 "The Restless Ghost"
             ],
-            "levels": [
-                {
-                    "level": 24,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 40,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 40,
-                    "skill": "mining"
-                }
-            ],
-            "others": []
+            "levels": []
         }
     },
     {
-        "name": "Merlin's Crystal",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/merlins-crystal",
+        "name": "The Hand in the Sand",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Hand_in_the_Sand",
+        "members": true,
+        "requirements": {
+            "quests": [],
+            "levels": []
+        }
+    },
+    {
+        "name": "The Slug Menace",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/The_Slug_Menace",
         "members": true,
         "requirements": {
             "quests": [],
             "levels": [
                 {
-                    "level": 20,
-                    "skill": "attack"
-                }
-               ],
-            "others": [
-                "Ability to fight and defeat a level 37 and a level 39 enemy."
-            ]
-        }
-    },
-    {
-        "name": "Monk's Friend",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/monks-friend",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Monkey Madness",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/monkey-madness",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Grand Tree",
-                "Tree Gnome Village"
-            ],
-            "levels": [],
-            "others": [
-                "Must be able to defeat a Level 195 Jungle Demon.",
-                "Level 43 Prayer is highly recommended. "
-            ]
-        }
-    },
-    {
-        "name": "Monkey Madness II",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/monkey-madness-ii",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Recipe for Disaster",
-                "Enlightened Journey",
-                "The Eyes of Glouphrie",
-                "Troll Stronghold",
-                "Watchtower"
-            ],
-            "levels": [
-                {
-                    "level": 70,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 69,
-                    "skill": "slayer"
-                },
-                {
-                    "level": 60,
-                    "skill": "hunter"
-                },
-                {
-                    "level": 55,
-                    "skill": "agility"
-                },
-                {
-                    "level": 55,
-                    "skill": "thieving"
-                }
-            ],
-            "others": [
-                "High combat, Thieving, and Agility are strongly recommended."
-            ]
-        }
-    },
-    {
-        "name": "Mountain Daughter",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/mountain-daughter",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Ability to defeat a level 70 enemy."
-            ]
-        }
-    },
-    {
-        "name": "Mourning's Ends Part I",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/mournings-ends-part-i",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Roving Elves",
-                "Sheep Herder",
-                "Big Chompy Bird Hunting"
-            ],
-            "levels": [
-                {
-                    "level": 60,
-                    "skill": "ranged"
-                },
-                {
-                    "level": 50,
-                    "skill": "thieving"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Mourning's Ends Part II (The Temple Of Light)",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/mournings-ends-part-ii-the-temple-of-light",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Mourning's Ends Part I"
-            ],
-            "levels": [],
-            "others": [
-                "A high Agility level (65+) is an advantage."
-            ]
-        }
-    },
-    {
-        "name": "Murder Mystery",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/murder-mystery",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "My Arm's Big Adventure",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/my-arms-big-adventure",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Eadgar's Ruse",
-                "The Feud",
-                "Jungle Potion",
-                "Enakhra's Lament"
-            ],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "woodcutting"
-                },
-                {
-                    "level": 29,
-                    "skill": "farming"
-                }
-            ],
-            "others": [
-                "61 Magic would be an advantage",
-                "60% Tai Bwo Wannia Cleanup favour",
-                "Must be able to defeat a level 172 enemy"
-            ]
-        }
-    },
-    {
-        "name": "Nature Spirit",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/nature-spirit",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Restless Ghost",
-                "Priest in Peril"
-            ],
-            "levels": [
-                {
-                    "level": 18,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "Must be able to defeat a level 30 monster."
-            ]
-        }
-    },
-    {
-        "name": "Observatory Quest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/observatory-quest",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "Be able to kill a level 42 guard"
-            ]
-        }
-    },
-    {
-        "name": "Olaf's Quest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/olafs-quest",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Fremennik Trials"
-            ],
-            "levels": [
-                {
-                    "level": 40,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 50,
-                    "skill": "woodcutting"
-                }
-            ],
-            "others": [
-                "High level Agility would be an advantage",
-                "Ability to kill level 100 Skeleton"
-            ]
-        }
-    },
-    {
-        "name": "One Small Favour",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/one-small-favour",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Rune Mysteries",
-                "Druidic Ritual",
-                "Shilo Village"
-            ],
-            "levels": [
-                {
-                    "level": 25,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 18,
-                    "skill": "herblore"
-                },
-                {
-                    "level": 36,
-                    "skill": "agility"
-                },
-                {
+                    "skill": "crafting",
                     "level": 30,
-                    "skill": "smithing"
-                }
-            ],
-            "others": [
-                "Must defeat a level 92 Foe"
-            ]
-        }
-    },
-    {
-        "name": "Pirate's Treasure",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/pirates-treasure",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Plague City",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/plague-city",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Priest in Peril",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/priest-in-peril",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Prince Ali Rescue",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/prince-ali-rescue",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Rag and Bone Man",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/rag-and-bone-man",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Level 20+ Combat with at least level 5 Defence is recommended."
-            ]
-        }
-    },
-    {
-        "name": "Rat Catchers",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/rat-catchers",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Gertrude's Cat",
-                "Icthlarin's Little Helper"
-            ],
-            "levels": [],
-            "others": [
-                "A pet kitten\/cat."
-            ]
-        }
-    },
-    {
-        "name": "Recipe for Disaster",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/recipe-for-disaster",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Big Chompy Bird Hunting",
-                "Biohazard",
-                "Cook's Assistant",
-                "Demon Slayer",
-                "Desert Treasure",
-                "Fishing Contest",
-                "Gertrude's Cat",
-                "Goblin Diplomacy",
-                "Horror From The Deep",
-                "Lost City",
-                "Monkey Madness",
-                "Murder Mystery",
-                "Nature Spirit",
-                "Priest in Peril",
-                "The Restless Ghost",
-                "Shadow of the Storm",
-                "Witch's House",
-                "Legends' Quest"
-            ],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "firemaking"
+                    "boostable": false
                 },
                 {
-                    "level": 70,
-                    "skill": "cooking",
+                    "skill": "runecraft",
+                    "level": 30,
                     "boostable": true
                 },
                 {
-                    "level": 48,
-                    "skill": "agility"
+                    "skill": "slayer",
+                    "level": 30,
+                    "boostable": true
                 },
                 {
-                    "level": 175,
-                    "skill": "quest_points"
+                    "skill": "thieving",
+                    "level": 30,
+                    "boostable": true
                 }
-            ],
-            "others": [
-                "Must be able to defeat high leveled, tough monsters"
             ]
         }
     },
     {
-        "name": "Recruitment Drive",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/recruitment-drive",
+        "name": "Another Slice of H.A.M.",
+        "url": "https:\/\/oldschool.runescape.wiki\/w\/Another_Slice_of_H.A.M.",
         "members": true,
         "requirements": {
             "quests": [
-                "Black Knights' Fortress",
+                "Death to the Dorgeshuun",
+                "The Giant Dwarf",
+                "The Dig Site",
                 "Druidic Ritual"
             ],
             "levels": [
                 {
-                    "level": 12,
-                    "skill": "quest_points"
-                }
-            ],
-            "others": [
-                "Be a female or go to the Makeover mage with 3k if you are a male (this 3k will be repaid)."
-            ]
-        }
-    },
-    {
-        "name": "Regicide",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/regicide",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Underground Pass"
-            ],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 56,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Higher level agility is an advantage",
-                "Must be able to beat a level 110 Tyras guard."
-            ]
-        }
-    },
-    {
-        "name": "Romeo and Juliet",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/romeo-and-juliet",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Roving Elves",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/roving-elves",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Waterfall Quest",
-                "Regicide"
-            ],
-            "levels": [],
-            "others": [
-                "Must defeat a Level 84 moss giant unarmed."
-            ]
-        }
-    },
-    {
-        "name": "Royal Trouble",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/royal-trouble",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Throne of Miscellania"
-            ],
-            "levels": [
-                {
-                    "level": 40,
-                    "skill": "agility"
-                },
-                {
-                    "level": 40,
-                    "skill": "slayer"
-                }
-            ],
-            "others": [
-                "Must be able to defeat a level 149 monster."
-            ]
-        }
-    },
-    {
-        "name": "Rum Deal",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/rum-deal",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Zogre Flesh Eaters"
-            ],
-            "levels": [
-                {
-                    "level": 42,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 42,
-                    "skill": "slayer"
-                },
-                {
-                    "level": 40,
-                    "skill": "farming",
-                    "boostable": true
-                },
-                {
-                    "level": 50,
-                    "skill": "fishing",
-                    "boostable": true
-                },
-                {
-                    "level": 47,
-                    "skill": "prayer"
-                }
-            ],
-            "others": [
-                "You also must have at least 47 Prayer points regardless of your actual level",
-                "Must be able to defeat a level 150 monster"
-            ]
-        }
-    },
-    {
-        "name": "Rune Mysteries",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/rune-mysteries",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Scorpion Catcher",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/scorpion-catcher",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 31,
-                    "skill": "prayer"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Sea Slug",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/sea-slug",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 30,
-                    "skill": "firemaking"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Shades Of Mort'ton",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/shades-of-mortton",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Priest in Peril"
-            ],
-            "levels": [
-                {
+                    "skill": "attack",
                     "level": 15,
-                    "skill": "herblore"
+                    "boostable": false
                 },
                 {
-                    "level": 20,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "Must be able to kill a level 40 foe",
-                "Requires a team of people (The higher their crafting levels the smaller that team can be)"
-            ]
-        }
-    },
-    {
-        "name": "Shadow of the Storm",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/shadow-of-the-storm",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Demon Slayer",
-                "The Golem"
-            ],
-            "levels": [
-                {
-                    "level": 30,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "Must be able defeat a level 100 demon."
-            ]
-        }
-    },
-    {
-        "name": "Sheep Herder",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/sheep-herder",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Sheep Shearer",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/sheep-shearer",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Shield of Arrav",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/shield-of-arrav",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Another player who has not yet completed the quest."
-            ]
-        }
-    },
-    {
-        "name": "Shilo Village",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/shilo-village",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Jungle Potion"
-            ],
-            "levels": [
-                {
-                    "level": 32,
-                    "skill": "agility"
-                },
-                {
-                    "level": 20,
-                    "skill": "crafting"
-                }
-            ],
-            "others": [
-                "Must fight three Monsters around level 90."
-            ]
-        }
-    },
-    {
-        "name": "Slug Menace",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/slug-menace",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Sea Slug",
-                "Wanted!"
-            ],
-            "levels": [
-                {
-                    "level": 30,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 30,
-                    "skill": "runecrafting"
-                },
-                {
-                    "level": 30,
-                    "skill": "slayer"
-                },
-                {
-                    "level": 30,
-                    "skill": "thieving"
-                }
-            ],
-            "others": [
-                "Ability to kill a level 62 Slug Prince."
-            ]
-        }
-    },
-    {
-        "name": "A Soul's Bane",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/souls-bane-a",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "The ability to defeat level 40-49 enemies."
-            ]
-        }
-    },
-    {
-        "name": "Spirits of the Elid",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/spirits-of-the-elid",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 33,
-                    "skill": "magic"
-                },
-                {
-                    "level": 37,
-                    "skill": "ranged"
-                },
-                {
-                    "level": 37,
-                    "skill": "mining"
-                },
-                {
-                    "level": 37,
-                    "skill": "thieving"
-                }
-            ],
-            "others": [
-                "Be able to defeat three Level 75 monsters."
-            ]
-        }
-    },
-    {
-        "name": "Swan Song",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/swan-song",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "One Small Favour",
-                "Garden of Tranquillity"
-            ],
-            "levels": [
-                {
-                    "level": 62,
-                    "skill": "cooking"
-                },
-                {
-                    "level": 45,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 42,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 40,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 66,
-                    "skill": "magic",
-                    "boostable": true
-                },
-                {
-                    "level": 62,
-                    "skill": "fishing",
-                    "boostable": true
-                },
-                {
-                    "level": 100,
-                    "skill": "quest_points"
-                }
-            ],
-            "others": [
-                "23 Runecrafting would be an advantage",
-                "Ability to fight a powerful level 170 Monster"
-            ]
-        }
-    },
-    {
-        "name": "Tai Bwo Wannai Trio",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tai-bwo-wannai-trio",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Jungle Potion"
-            ],
-            "levels": [
-                {
-                    "level": 30,
-                    "skill": "cooking"
-                },
-                {
-                    "level": 15,
-                    "skill": "agility"
-                },
-                {
-                    "level": 5,
-                    "skill": "fishing"
-                }
-            ],
-            "others": [
-                "65 Fishing Recommended",
-                "High level Herblore is a distinct advantage.",
-                "Must be able to defeat level 53 Jogres."
-            ]
-        }
-    },
-    {
-        "name": "A Tail of Two Cats",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tail-of-two-cats-a",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Icthlarin's Little Helper",
-                "Gertrude's Cat"
-            ],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Tears of Guthix",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tears-of-guthix",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 49,
-                    "skill": "firemaking"
-                },
-                {
-                    "level": 20,
-                    "skill": "crafting"
-                },
-                {
-                    "level": 20,
-                    "skill": "mining"
-                },
-                {
-                    "level": 44,
-                    "skill": "quest_points"
-                }
-            ],
-            "others": [
-                "49 Crafting would be an advantage",
-                "49 Smithing would be an advantage"
-            ]
-        }
-    },
-    {
-        "name": "Temple of Ikov",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/temple-of-ikov",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 40,
-                    "skill": "ranged"
-                },
-                {
-                    "level": 42,
-                    "skill": "thieving"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "The Restless Ghost",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/the-restless-ghost",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Must be able to fight a level 13 Skeleton."
-            ]
-        }
-    },
-    {
-        "name": "Throne of Miscellania",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/throne-of-miscellania",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "The Fremennik Trials",
-                "Heroes' Quest"
-            ],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "The Tourist Trap",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tourist-trap-the",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 20,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 10,
-                    "skill": "fletching"
-                }
-            ],
-            "others": [
-                "Must be able to kill a level 47 enemy."
-            ]
-        }
-    },
-    {
-        "name": "Tower of Life",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tower-of-life",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 10,
-                    "skill": "construction"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Tree Gnome Village",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tree-gnome-village",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Must be able to defeat a level 112 Khazard Warlord."
-            ]
-        }
-    },
-    {
-        "name": "Tribal Totem",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/tribal-totem",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 21,
-                    "skill": "thieving"
-                }
-            ],
-            "others": []
-        }
-    },
-    {
-        "name": "Troll Romance",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/troll-romance",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Death Plateau",
-                "Troll Stronghold"
-            ],
-            "levels": [
-                {
-                    "level": 28,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Must be able to defeat a level 113 Troll."
-            ]
-        }
-    },
-    {
-        "name": "Troll Stronghold",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/troll-stronghold",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Death Plateau"
-            ],
-            "levels": [
-                {
-                    "level": 15,
-                    "skill": "agility"
-                }
-            ],
-            "others": [
-                "Must beat a level 113 Troll.",
-                "30 Thieving is recommended."
-            ]
-        }
-    },
-    {
-        "name": "Underground Pass",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/underground-pass",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Biohazard"
-            ],
-            "levels": [
-                {
+                    "skill": "prayer",
                     "level": 25,
-                    "skill": "ranged"
+                    "boostable": false
                 }
-            ],
-            "others": [
-                "Must beat three level 91 demons.",
-                "Good Thieving and Agility is an advantage."
-            ]
-        }
-    },
-    {
-        "name": "Vampire Slayer",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/vampire-slayer",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Must be able to kill a level 34 Vampire."
-            ]
-        }
-    },
-    {
-        "name": "Wanted!",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/wanted",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Recruitment Drive",
-                "Priest in Peril",
-                "The Lost Tribe",
-                "Rune Mysteries"
-            ],
-            "levels": [
-                {
-                    "level": 32,
-                    "skill": "quest_points"
-                }
-            ],
-            "others": [
-                "Must be able to kill a Black knight (level 33)."
-            ]
-        }
-    },
-    {
-        "name": "Watchtower",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/watchtower",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [
-                {
-                    "level": 14,
-                    "skill": "herblore"
-                },
-                {
-                    "level": 14,
-                    "skill": "magic"
-                },
-                {
-                    "level": 15,
-                    "skill": "thieving"
-                },
-                {
-                    "level": 25,
-                    "skill": "agility"
-                },
-                {
-                    "level": 40,
-                    "skill": "mining"
-                }
-            ],
-            "others": [
-                "Must defeat level 68 monsters."
-            ]
-        }
-    },
-    {
-        "name": "Waterfall Quest",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/waterfall-quest",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Be able to withstand attacks from level 84 Moss Giants without any armor or prayer."
-            ]
-        }
-    },
-    {
-        "name": "What Lies Below",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/what-lies-below",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Rune Mysteries"
-            ],
-            "levels": [
-                {
-                    "level": 35,
-                    "skill": "runecrafting"
-                }
-            ],
-            "others": [
-                "Ability to defeat level 47 King Roald and 5 level 35 Outlaws",
-                "21 agility useful for quicker access to Bandit's camp",
-                "42 mining useful for a quick shortcut to the chaos temple"
-            ]
-        }
-    },
-    {
-        "name": "Witch's House",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/witchs-house",
-        "members": true,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": [
-                "Must kill a mystery level 53 monster."
-            ]
-        }
-    },
-    {
-        "name": "Witch's Potion",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/witchs-potion",
-        "members": false,
-        "requirements": {
-            "quests": [],
-            "levels": [],
-            "others": []
-        }
-    },
-    {
-        "name": "Zogre Flesh Eaters",
-        "url": "http:\/\/www.runehq.com\/oldschoolquest\/zogre-flesh-eaters",
-        "members": true,
-        "requirements": {
-            "quests": [
-                "Jungle Potion",
-                "Big Chompy Bird Hunting"
-            ],
-            "levels": [
-                {
-                    "level": 8,
-                    "skill": "herblore"
-                },
-                {
-                    "level": 30,
-                    "skill": "ranged"
-                },
-                {
-                    "level": 4,
-                    "skill": "smithing"
-                },
-                {
-                    "level": 30,
-                    "skill": "fletching"
-                }
-            ],
-            "others": [
-                "Must be able to defeat a level 111 enemy."
             ]
         }
     }

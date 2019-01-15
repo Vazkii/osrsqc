@@ -8,19 +8,24 @@ var filters = {
 
 	'show-cant-do': new Filter(true, 'show-cant-do', 'Missing Requirements',
 		function(quest) {
-			for(i in quest.requirements.levels) {
-				var req = quest.requirements.levels[i];
-				var skill = req.skill;
-				var level = req.level;
-				if(skills[skill] < level)
-					return false;
-			}
+			if(!quest.requirements)
+				return true;
 
-			for(i in quest.requirements.quests) {
-				var reqQuest = quest.requirements.quests[i];
-				if(completedQuests.indexOf(reqQuest) < 0)
-					return false;
-			}
+			if(quest.requirements.levels)
+				for(i in quest.requirements.levels) {
+					var req = quest.requirements.levels[i];
+					var skill = req.skill;
+					var level = req.level;
+					if(skills[skill] < level)
+						return false;
+				}
+
+			if(quest.requirements.quests)
+				for(i in quest.requirements.quests) {
+					var reqQuest = quest.requirements.quests[i];
+					if(reqQuest in questsByName && completedQuests.indexOf(reqQuest) < 0)
+						return false;
+				}
 
 			return true;
 		}),
@@ -55,8 +60,8 @@ var skills = {
 	'farming': 1,
 	'construction': 1,
 	'hunter': 1,
-	'quest_points': 1,
-	'combat_level': 3,
+	'quest': 1,
+	'combat': 3,
 }
 
 var quests = [];
@@ -138,8 +143,8 @@ function computeCombat() {
 	var magic = 0.325 * (Math.floor(skills['magic'] / 2) + skills['magic']);
 	var combat = Math.floor(base + Math.max(melee, range, magic));
 
-	$('#combat-level').text(combat);
-	skills['combat_level'] = combat;
+	$('#combat').text(combat);
+	skills['combat'] = combat;
 }
 
 function shouldQuestBeVisible(quest) {
@@ -215,7 +220,7 @@ function loadSkillInput() {
 	var skillInputsHtml = '';
 	var i = 0;
 	for(skill in skills) {
-		if(skill == 'combat_level') {
+		if(skill == 'combat') {
 			skillInputsHtml += '</div>';
 			break;
 		}
@@ -227,7 +232,7 @@ function loadSkillInput() {
 		}
 
 		var current = skills[skill];
-		var maxchars = (skill == 'quest_points' ? 3 : 2);
+		var maxchars = (skill == 'quest' ? 3 : 2);
 
 		skillInputsHtml += Mustache.to_html(templateSkillInput, {
 			'skill': skill,
@@ -265,8 +270,8 @@ function loadQuests() {
 		
 		data.forEach(function(quest, i) {
 			quest['index'] = i;
-			quest['has-levels'] = quest.requirements.levels.length > 0;
-			quest['has-quests'] = quest.requirements.quests.length > 0;
+			quest['has-levels'] = quest.requirements && quest.requirements.levels && quest.requirements.levels.length;
+			quest['has-quests'] = quest.requirements && quest.requirements.quests && quest.requirements.quests.length;
 			quest['has-requirements'] = quest['has-levels'] || quest['has-quests'];
 			quest['done'] = $.cookie('quest_' + i);
 			if(quest.done)

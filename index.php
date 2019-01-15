@@ -21,7 +21,7 @@
 
 					<div id="last-skills-line">
 						<div id="combat-level-display">
-							<img src="img/skill_icons/combat_level.png"></img>
+							<img src="img/skill_icons/combat.png"></img>
 							<span id="combat-level">3</span>
 						</div>
 						<div id="update-button-container">
@@ -41,9 +41,9 @@
 			</div>
 
 			<div id="side-panel-footer">
-				Quest info from <a href="http://www.runehq.com/oldschoolquest">RuneHQ</a><br>
+				Quest info from <a href="https://oldschool.runescape.wiki">OSRS Wiki</a><br>
 				Site by <a href="https://twitter.com/Vazkii/">Vazkii</a>, source @ <a href="https://github.com/Vazkii/osrsqc">github</a><br>
-				Not affiliated with Jagex or RuneHQ.
+				Not affiliated with Jagex or OSRS Wiki.
 			</div>
 		</div>
 		<div id="main-panel" class="split-panel">

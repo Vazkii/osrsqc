@@ -1,7 +1,7 @@
 <div class="quest" data-name="{{name}}" data-index="{{index}}">
 	<div class="quest-check-container quest-details">
-		<div class="quest-runehq-link">
-			<a href="{{url}}"><img src="img/kiteshield.png" title="Walkthrough on RuneHQ"></img></a>
+		<div class="quest-wiki-link">
+			<a href="{{url}}"><img src="img/oswiki.jpg" title="Walkthrough on OSRS Wiki"></img></a>
 		</div>
 		<div class="quest-check {{#done}}quest-complete{{/done}}">
 			<div class="quest-checkmark quest-cm0 {{#done}}quest-cm0c{{/done}}"></div>
@@ -22,30 +22,33 @@
 
 	<div class="quest-reqs quest-details">
 		{{#has-levels}}
-			<div class="req-box header-box"><img src="img/skills.png" title="Skill Requirements"></img></div>
-		{{/has-levels}}		
-		{{#requirements.levels}}
-			<div class="req-box skills-header-box {{#boostable}}boostable{{/boostable}}" data-req="skill-{{skill}}">
-				<div class="req-box-image">
-					<img src="img/skill_icons/{{skill}}.png"></img>
-				</div>
-				<div class="req-box-level">
-					{{level}}
-					{{#boostable}}
-						<img src="img/mind-bomb.png" title="Boostable"></img>
-					{{/boostable}}
-				</div> 
+			<div class="quest-reqs-skills quest-reqs-box">
+				<div class="req-box header-box"><img src="img/skills.png" title="Skill Requirements"></img></div>	
+				{{#requirements.levels}}
+					<div class="req-box skills-header-box {{#boostable}}boostable{{/boostable}}" data-req="skill-{{skill}}">
+						<div class="req-box-image">
+							<img src="img/skill_icons/{{skill}}.png"></img>
+						</div>
+						<div class="req-box-level">
+							{{level}}
+							{{#boostable}}
+								<img src="img/mind-bomb.png" title="Boostable"></img>
+							{{/boostable}}
+						</div> 
+					</div>
+				{{/requirements.levels}}
 			</div>
-		{{/requirements.levels}}
+		{{/has-levels}}	
 
 		{{#has-quests}}
-			{{#has-levels}}<br>{{/has-levels}}
-			<div class="req-box header-box quest-header-box"><img src="img/skill_icons/quest_points.png" title="Quest Requirements"></img></div>
-			{{#requirements.quests}}
-				<div class="req-box quest-req-box">
-					{{.}}
-				</div>
-			{{/requirements.quests}}
+			<div class="quest-reqs-quests quest-reqs-box">
+				<div class="req-box header-box quest-header-box"><img src="img/skill_icons/quest.png" title="Quest Requirements"></img></div>
+				{{#requirements.quests}}
+					<div class="req-box quest-req-box">
+						{{.}}
+					</div>
+				{{/requirements.quests}}
+			</div>
 		{{/has-quests}}	
 
 		{{^has-requirements}}

@@ -123,6 +123,12 @@ a {
     vertical-align: middle;
 }
 
+.quest-reqs-box {
+	padding: 8px;
+	margin: 5px;
+	background-color: #f8f8f8;
+}
+
 .no-requirements-box {
 	background-color: rgba(0,0,0,0.05);
 	padding: 0px 5px 0px 0px;
@@ -141,12 +147,16 @@ a {
 	margin-left: 618px;
 }
 
-.quest-runehq-link {
+.quest-wiki-link {
 	position: absolute;
 	display: inline-block;
 	width: 30px;
 	height: 30px;
 	margin-left: -40px;
+}
+
+.quest-wiki-link img {
+	width: 30px;
 }
 
 .quest-check {
